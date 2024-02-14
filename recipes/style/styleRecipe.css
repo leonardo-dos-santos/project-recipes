@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(219, 255, 231);
+}
+
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 400px;
+}
+
+a {
+    background-color: rgb(88, 92, 153);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ol{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(155, 197, 164)
+}
